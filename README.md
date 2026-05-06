@@ -1,5 +1,7 @@
 🌎 Nacionalidade: Brasileiro 🇧🇷
 
+🎂 Idade: 16
+
 🏫 Curso: Técnico em Informática para Internet (atualmente cursando)
 
 😁 Interesses: Tenho interesse em back-end e front-end para jogos, redes sociais, lojas virtuais e streamings.
